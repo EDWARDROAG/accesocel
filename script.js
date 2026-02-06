@@ -99,8 +99,8 @@ console.log("Slider infinito WM Acesocell activo");
 const floatBtn = document.querySelector('.whatsapp-float');
 
 if (floatBtn) {
-  const phoneNumber = '573107651542'; // número WhatsApp
-  const message = 'Hola, estoy interesado en sus servicios de mantenimiento.';
+  const phoneNumber = '573103647963'; // número WhatsApp
+  const message = 'Hola, estoy interesado adquirir un producto.';
 
   const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
